@@ -1,4 +1,4 @@
-# PlaylistScript 🎵
+# PlaylistScript 
 
 Lenguaje de scripting especializado para generar playlists reales en Spotify.
 Proyecto final de la materia **Traductores y Compiladores** — UABC FCQI, 2026.
