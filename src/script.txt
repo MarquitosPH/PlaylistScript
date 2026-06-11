@@ -1,0 +1,12 @@
+PLAYLIST "Mis Mejores Canciones"
+DESCRIPTION "Canciones para andar de rogon"
+GENRE "indie"
+GENRE "pop"
+ARTIST "Mon Laferte"
+TRACK "Supermercado"
+ALBUM "SEIS"
+YEAR 2010-2024
+MIN 10
+LIMIT 30
+NOREPEAT true
+CREATE
